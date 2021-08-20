@@ -1,15 +1,5 @@
 document.addEventListener("DOMContentLoaded", event => {
   const app = firebase.app();
-  // const db = firebase.firestore();
-
-  // const firstTodo = db.collection('todos').doc('BIcXcANRxvkfsW5d0kdb')
-  // console.log('first', firstTodo)
-
-  // firstTodo.get().then(doc => {
-  //   const data = doc.data;
-  //   console.log('doc', data)
-  //   document.write(JSON.stringify(data) + '<br>')
-  // })
 })
 
 function logInGoogle() {
