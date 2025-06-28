@@ -1,3 +1,3 @@
-Watch [tutorial](https://www.youtube.com/watch?v=9kRgVxULbag) for full walkthrough (this just covers the first part of it)
+# firebase-gauth
 
-https://brig-firebase-gauth.web.app
+I've always wanted to see how to set up Google Sign-In, so this was just a little proof of concept of using Firebase to sign in with Google to a basic HTML site.
